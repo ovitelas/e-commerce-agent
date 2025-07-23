@@ -1,0 +1,371 @@
+2025-07-22 15:17:39,863 - Use pytorch device_name: cpu
+2025-07-22 15:17:39,863 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 15:17:42,159 - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-22 15:17:51,816 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 15:21:44,466 - Use pytorch device_name: cpu
+2025-07-22 15:21:44,466 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 15:21:47,148 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 15:28:57,540 - Use pytorch device_name: cpu
+2025-07-22 15:28:57,540 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 15:29:00,282 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:15:55,764 - Use pytorch device_name: cpu
+2025-07-22 16:15:55,765 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:15:58,423 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:20:46,022 - Use pytorch device_name: cpu
+2025-07-22 16:20:46,022 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:20:48,715 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:33:21,496 - Use pytorch device_name: cpu
+2025-07-22 16:33:21,496 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:33:24,450 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:40:37,544 - Use pytorch device_name: cpu
+2025-07-22 16:40:37,544 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:40:40,234 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:42:07,147 - Use pytorch device_name: cpu
+2025-07-22 16:42:07,148 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:42:09,839 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-22 16:46:33,877 - Use pytorch device_name: cpu
+2025-07-22 16:46:33,877 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-22 16:46:36,577 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:25:46,879 - Use pytorch device_name: cpu
+2025-07-23 09:25:46,880 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:25:50,175 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:28:00,224 - Use pytorch device_name: cpu
+2025-07-23 09:28:00,224 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:28:02,899 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:29:04,472 - Use pytorch device_name: cpu
+2025-07-23 09:29:04,472 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:29:07,402 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:29:58,301 - Use pytorch device_name: cpu
+2025-07-23 09:29:58,302 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:30:00,980 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:30:32,582 - Use pytorch device_name: cpu
+2025-07-23 09:30:32,582 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:30:35,290 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:49:34,467 - Use pytorch device_name: cpu
+2025-07-23 09:49:34,467 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:49:37,335 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 09:50:28,553 - Use pytorch device_name: cpu
+2025-07-23 09:50:28,553 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 09:50:31,443 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 10:51:43,900 - Use pytorch device_name: cpu
+2025-07-23 10:51:43,901 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 10:51:46,799 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 10:52:21,379 - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-07-23 10:52:21,722 - LiteLLM call failed: litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-07-23 11:15:26,449 - Use pytorch device_name: cpu
+2025-07-23 11:15:26,449 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 11:15:29,080 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 11:16:01,920 - LiteLLM call failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=[1mHuggingFacePipeline[0m
+Params: {'model_id': 'gpt2', 'model_kwargs': None, 'pipeline_kwargs': None}
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2025-07-23 11:16:28,141 - Use pytorch device_name: cpu
+2025-07-23 11:16:28,141 - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-23 11:16:30,760 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 11:17:03,528 - LiteLLM call failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=[1mHuggingFacePipeline[0m
+Params: {'model_id': 'gpt2', 'model_kwargs': None, 'pipeline_kwargs': None}
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2025-07-23 13:50:33,657 - Use pytorch device_name: cpu
+2025-07-23 13:50:33,657 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 13:50:36,860 - Loading faiss with AVX2 support.
+2025-07-23 13:50:36,885 - Successfully loaded faiss with AVX2 support.
+2025-07-23 13:50:36,892 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 13:53:18,567 - Use pytorch device_name: cpu
+2025-07-23 13:53:18,567 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 13:53:21,290 - Loading faiss with AVX2 support.
+2025-07-23 13:53:21,309 - Successfully loaded faiss with AVX2 support.
+2025-07-23 13:53:21,315 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 13:53:32,980 - LiteLLM call failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llm=HuggingFacePipeline(pipeline=<transformers.pipelines.text2text_generation.Text2TextGenerationPipeline object at 0x00000270B5396510>, model_id='google/flan-t5-small') tokenizer=T5TokenizerFast(name_or_path='google/flan-t5-small', vocab_size=32100, model_max_length=512, is_fast=True, padding_side='right', truncation_side='right', special_tokens={'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<pad>', 'additional_special_tokens': ['<extra_id_0>', '<extra_id_1>', '<extra_id_2>', '<extra_id_3>', '<extra_id_4>', '<extra_id_5>', '<extra_id_6>', '<extra_id_7>', '<extra_id_8>', '<extra_id_9>', '<extra_id_10>', '<extra_id_11>', '<extra_id_12>', '<extra_id_13>', '<extra_id_14>', '<extra_id_15>', '<extra_id_16>', '<extra_id_17>', '<extra_id_18>', '<extra_id_19>', '<extra_id_20>', '<extra_id_21>', '<extra_id_22>', '<extra_id_23>', '<extra_id_24>', '<extra_id_25>', '<extra_id_26>', '<extra_id_27>', '<extra_id_28>', '<extra_id_29>', '<extra_id_30>', '<extra_id_31>', '<extra_id_32>', '<extra_id_33>', '<extra_id_34>', '<extra_id_35>', '<extra_id_36>', '<extra_id_37>', '<extra_id_38>', '<extra_id_39>', '<extra_id_40>', '<extra_id_41>', '<extra_id_42>', '<extra_id_43>', '<extra_id_44>', '<extra_id_45>', '<extra_id_46>', '<extra_id_47>', '<extra_id_48>', '<extra_id_49>', '<extra_id_50>', '<extra_id_51>', '<extra_id_52>', '<extra_id_53>', '<extra_id_54>', '<extra_id_55>', '<extra_id_56>', '<extra_id_57>', '<extra_id_58>', '<extra_id_59>', '<extra_id_60>', '<extra_id_61>', '<extra_id_62>', '<extra_id_63>', '<extra_id_64>', '<extra_id_65>', '<extra_id_66>', '<extra_id_67>', '<extra_id_68>', '<extra_id_69>', '<extra_id_70>', '<extra_id_71>', '<extra_id_72>', '<extra_id_73>', '<extra_id_74>', '<extra_id_75>', '<extra_id_76>', '<extra_id_77>', '<extra_id_78>', '<extra_id_79>', '<extra_id_80>', '<extra_id_81>', '<extra_id_82>', '<extra_id_83>', '<extra_id_84>', '<extra_id_85>', '<extra_id_86>', '<extra_id_87>', '<extra_id_88>', '<extra_id_89>', '<extra_id_90>', '<extra_id_91>', '<extra_id_92>', '<extra_id_93>', '<extra_id_94>', '<extra_id_95>', '<extra_id_96>', '<extra_id_97>', '<extra_id_98>', '<extra_id_99>']}, clean_up_tokenization_spaces=False, added_tokens_decoder={
+	0: AddedToken("<pad>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	1: AddedToken("</s>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	2: AddedToken("<unk>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32000: AddedToken("<extra_id_99>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32001: AddedToken("<extra_id_98>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32002: AddedToken("<extra_id_97>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32003: AddedToken("<extra_id_96>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32004: AddedToken("<extra_id_95>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32005: AddedToken("<extra_id_94>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32006: AddedToken("<extra_id_93>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32007: AddedToken("<extra_id_92>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32008: AddedToken("<extra_id_91>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32009: AddedToken("<extra_id_90>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32010: AddedToken("<extra_id_89>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32011: AddedToken("<extra_id_88>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32012: AddedToken("<extra_id_87>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32013: AddedToken("<extra_id_86>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32014: AddedToken("<extra_id_85>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32015: AddedToken("<extra_id_84>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32016: AddedToken("<extra_id_83>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32017: AddedToken("<extra_id_82>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32018: AddedToken("<extra_id_81>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32019: AddedToken("<extra_id_80>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32020: AddedToken("<extra_id_79>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32021: AddedToken("<extra_id_78>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32022: AddedToken("<extra_id_77>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32023: AddedToken("<extra_id_76>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32024: AddedToken("<extra_id_75>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32025: AddedToken("<extra_id_74>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32026: AddedToken("<extra_id_73>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32027: AddedToken("<extra_id_72>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32028: AddedToken("<extra_id_71>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32029: AddedToken("<extra_id_70>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32030: AddedToken("<extra_id_69>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32031: AddedToken("<extra_id_68>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32032: AddedToken("<extra_id_67>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32033: AddedToken("<extra_id_66>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32034: AddedToken("<extra_id_65>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32035: AddedToken("<extra_id_64>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32036: AddedToken("<extra_id_63>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32037: AddedToken("<extra_id_62>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32038: AddedToken("<extra_id_61>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32039: AddedToken("<extra_id_60>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32040: AddedToken("<extra_id_59>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32041: AddedToken("<extra_id_58>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32042: AddedToken("<extra_id_57>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32043: AddedToken("<extra_id_56>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32044: AddedToken("<extra_id_55>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32045: AddedToken("<extra_id_54>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32046: AddedToken("<extra_id_53>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32047: AddedToken("<extra_id_52>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32048: AddedToken("<extra_id_51>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32049: AddedToken("<extra_id_50>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32050: AddedToken("<extra_id_49>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32051: AddedToken("<extra_id_48>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32052: AddedToken("<extra_id_47>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32053: AddedToken("<extra_id_46>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32054: AddedToken("<extra_id_45>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32055: AddedToken("<extra_id_44>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32056: AddedToken("<extra_id_43>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32057: AddedToken("<extra_id_42>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32058: AddedToken("<extra_id_41>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32059: AddedToken("<extra_id_40>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32060: AddedToken("<extra_id_39>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32061: AddedToken("<extra_id_38>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32062: AddedToken("<extra_id_37>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32063: AddedToken("<extra_id_36>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32064: AddedToken("<extra_id_35>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32065: AddedToken("<extra_id_34>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32066: AddedToken("<extra_id_33>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32067: AddedToken("<extra_id_32>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32068: AddedToken("<extra_id_31>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32069: AddedToken("<extra_id_30>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32070: AddedToken("<extra_id_29>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32071: AddedToken("<extra_id_28>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32072: AddedToken("<extra_id_27>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32073: AddedToken("<extra_id_26>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32074: AddedToken("<extra_id_25>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32075: AddedToken("<extra_id_24>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32076: AddedToken("<extra_id_23>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32077: AddedToken("<extra_id_22>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32078: AddedToken("<extra_id_21>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32079: AddedToken("<extra_id_20>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32080: AddedToken("<extra_id_19>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32081: AddedToken("<extra_id_18>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32082: AddedToken("<extra_id_17>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32083: AddedToken("<extra_id_16>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32084: AddedToken("<extra_id_15>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32085: AddedToken("<extra_id_14>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32086: AddedToken("<extra_id_13>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32087: AddedToken("<extra_id_12>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32088: AddedToken("<extra_id_11>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32089: AddedToken("<extra_id_10>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32090: AddedToken("<extra_id_9>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32091: AddedToken("<extra_id_8>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32092: AddedToken("<extra_id_7>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32093: AddedToken("<extra_id_6>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32094: AddedToken("<extra_id_5>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32095: AddedToken("<extra_id_4>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32096: AddedToken("<extra_id_3>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32097: AddedToken("<extra_id_2>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32098: AddedToken("<extra_id_1>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32099: AddedToken("<extra_id_0>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+}
+) model_id='google/flan-t5-small' model_kwargs={}
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2025-07-23 14:02:51,327 - Use pytorch device_name: cpu
+2025-07-23 14:02:51,327 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 14:02:54,317 - Loading faiss with AVX2 support.
+2025-07-23 14:02:54,335 - Successfully loaded faiss with AVX2 support.
+2025-07-23 14:02:54,341 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 14:03:00,421 - LiteLLM call failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=llm=HuggingFacePipeline(pipeline=<transformers.pipelines.text2text_generation.Text2TextGenerationPipeline object at 0x00000216D23763C0>, model_id='google/flan-t5-small') tokenizer=T5TokenizerFast(name_or_path='google/flan-t5-small', vocab_size=32100, model_max_length=512, is_fast=True, padding_side='right', truncation_side='right', special_tokens={'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<pad>', 'additional_special_tokens': ['<extra_id_0>', '<extra_id_1>', '<extra_id_2>', '<extra_id_3>', '<extra_id_4>', '<extra_id_5>', '<extra_id_6>', '<extra_id_7>', '<extra_id_8>', '<extra_id_9>', '<extra_id_10>', '<extra_id_11>', '<extra_id_12>', '<extra_id_13>', '<extra_id_14>', '<extra_id_15>', '<extra_id_16>', '<extra_id_17>', '<extra_id_18>', '<extra_id_19>', '<extra_id_20>', '<extra_id_21>', '<extra_id_22>', '<extra_id_23>', '<extra_id_24>', '<extra_id_25>', '<extra_id_26>', '<extra_id_27>', '<extra_id_28>', '<extra_id_29>', '<extra_id_30>', '<extra_id_31>', '<extra_id_32>', '<extra_id_33>', '<extra_id_34>', '<extra_id_35>', '<extra_id_36>', '<extra_id_37>', '<extra_id_38>', '<extra_id_39>', '<extra_id_40>', '<extra_id_41>', '<extra_id_42>', '<extra_id_43>', '<extra_id_44>', '<extra_id_45>', '<extra_id_46>', '<extra_id_47>', '<extra_id_48>', '<extra_id_49>', '<extra_id_50>', '<extra_id_51>', '<extra_id_52>', '<extra_id_53>', '<extra_id_54>', '<extra_id_55>', '<extra_id_56>', '<extra_id_57>', '<extra_id_58>', '<extra_id_59>', '<extra_id_60>', '<extra_id_61>', '<extra_id_62>', '<extra_id_63>', '<extra_id_64>', '<extra_id_65>', '<extra_id_66>', '<extra_id_67>', '<extra_id_68>', '<extra_id_69>', '<extra_id_70>', '<extra_id_71>', '<extra_id_72>', '<extra_id_73>', '<extra_id_74>', '<extra_id_75>', '<extra_id_76>', '<extra_id_77>', '<extra_id_78>', '<extra_id_79>', '<extra_id_80>', '<extra_id_81>', '<extra_id_82>', '<extra_id_83>', '<extra_id_84>', '<extra_id_85>', '<extra_id_86>', '<extra_id_87>', '<extra_id_88>', '<extra_id_89>', '<extra_id_90>', '<extra_id_91>', '<extra_id_92>', '<extra_id_93>', '<extra_id_94>', '<extra_id_95>', '<extra_id_96>', '<extra_id_97>', '<extra_id_98>', '<extra_id_99>']}, clean_up_tokenization_spaces=False, added_tokens_decoder={
+	0: AddedToken("<pad>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	1: AddedToken("</s>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	2: AddedToken("<unk>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32000: AddedToken("<extra_id_99>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32001: AddedToken("<extra_id_98>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32002: AddedToken("<extra_id_97>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32003: AddedToken("<extra_id_96>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32004: AddedToken("<extra_id_95>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32005: AddedToken("<extra_id_94>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32006: AddedToken("<extra_id_93>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32007: AddedToken("<extra_id_92>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32008: AddedToken("<extra_id_91>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32009: AddedToken("<extra_id_90>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32010: AddedToken("<extra_id_89>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32011: AddedToken("<extra_id_88>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32012: AddedToken("<extra_id_87>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32013: AddedToken("<extra_id_86>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32014: AddedToken("<extra_id_85>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32015: AddedToken("<extra_id_84>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32016: AddedToken("<extra_id_83>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32017: AddedToken("<extra_id_82>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32018: AddedToken("<extra_id_81>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32019: AddedToken("<extra_id_80>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32020: AddedToken("<extra_id_79>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32021: AddedToken("<extra_id_78>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32022: AddedToken("<extra_id_77>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32023: AddedToken("<extra_id_76>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32024: AddedToken("<extra_id_75>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32025: AddedToken("<extra_id_74>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32026: AddedToken("<extra_id_73>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32027: AddedToken("<extra_id_72>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32028: AddedToken("<extra_id_71>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32029: AddedToken("<extra_id_70>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32030: AddedToken("<extra_id_69>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32031: AddedToken("<extra_id_68>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32032: AddedToken("<extra_id_67>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32033: AddedToken("<extra_id_66>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32034: AddedToken("<extra_id_65>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32035: AddedToken("<extra_id_64>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32036: AddedToken("<extra_id_63>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32037: AddedToken("<extra_id_62>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32038: AddedToken("<extra_id_61>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32039: AddedToken("<extra_id_60>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32040: AddedToken("<extra_id_59>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32041: AddedToken("<extra_id_58>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32042: AddedToken("<extra_id_57>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32043: AddedToken("<extra_id_56>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32044: AddedToken("<extra_id_55>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32045: AddedToken("<extra_id_54>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32046: AddedToken("<extra_id_53>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32047: AddedToken("<extra_id_52>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32048: AddedToken("<extra_id_51>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32049: AddedToken("<extra_id_50>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32050: AddedToken("<extra_id_49>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32051: AddedToken("<extra_id_48>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32052: AddedToken("<extra_id_47>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32053: AddedToken("<extra_id_46>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32054: AddedToken("<extra_id_45>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32055: AddedToken("<extra_id_44>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32056: AddedToken("<extra_id_43>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32057: AddedToken("<extra_id_42>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32058: AddedToken("<extra_id_41>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32059: AddedToken("<extra_id_40>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32060: AddedToken("<extra_id_39>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32061: AddedToken("<extra_id_38>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32062: AddedToken("<extra_id_37>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32063: AddedToken("<extra_id_36>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32064: AddedToken("<extra_id_35>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32065: AddedToken("<extra_id_34>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32066: AddedToken("<extra_id_33>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32067: AddedToken("<extra_id_32>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32068: AddedToken("<extra_id_31>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32069: AddedToken("<extra_id_30>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32070: AddedToken("<extra_id_29>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32071: AddedToken("<extra_id_28>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32072: AddedToken("<extra_id_27>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32073: AddedToken("<extra_id_26>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32074: AddedToken("<extra_id_25>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32075: AddedToken("<extra_id_24>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32076: AddedToken("<extra_id_23>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32077: AddedToken("<extra_id_22>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32078: AddedToken("<extra_id_21>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32079: AddedToken("<extra_id_20>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32080: AddedToken("<extra_id_19>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32081: AddedToken("<extra_id_18>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32082: AddedToken("<extra_id_17>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32083: AddedToken("<extra_id_16>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32084: AddedToken("<extra_id_15>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32085: AddedToken("<extra_id_14>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32086: AddedToken("<extra_id_13>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32087: AddedToken("<extra_id_12>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32088: AddedToken("<extra_id_11>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32089: AddedToken("<extra_id_10>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32090: AddedToken("<extra_id_9>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32091: AddedToken("<extra_id_8>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32092: AddedToken("<extra_id_7>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32093: AddedToken("<extra_id_6>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32094: AddedToken("<extra_id_5>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32095: AddedToken("<extra_id_4>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32096: AddedToken("<extra_id_3>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32097: AddedToken("<extra_id_2>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32098: AddedToken("<extra_id_1>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+	32099: AddedToken("<extra_id_0>", rstrip=False, lstrip=False, single_word=False, normalized=False, special=True),
+}
+) model_id='google/flan-t5-small' model_kwargs={}
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2025-07-23 14:27:41,908 - Use pytorch device_name: cpu
+2025-07-23 14:27:41,908 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 14:27:44,929 - Loading faiss with AVX2 support.
+2025-07-23 14:27:45,001 - Successfully loaded faiss with AVX2 support.
+2025-07-23 14:27:45,008 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 14:29:52,551 - Use pytorch device_name: cpu
+2025-07-23 14:29:52,551 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 14:29:55,426 - Loading faiss with AVX2 support.
+2025-07-23 14:29:55,445 - Successfully loaded faiss with AVX2 support.
+2025-07-23 14:29:55,451 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 14:30:06,609 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 14:30:06,685 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 14:30:07,172 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-23 14:30:07,274 - LiteLLM call failed: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: sk-or-v1*************************************************************62f4. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-07-23 14:34:01,766 - Use pytorch device_name: cpu
+2025-07-23 14:34:01,766 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 14:34:04,757 - Loading faiss with AVX2 support.
+2025-07-23 14:34:04,775 - Successfully loaded faiss with AVX2 support.
+2025-07-23 14:34:04,781 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 14:34:10,663 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 14:34:10,761 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 14:34:11,445 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-07-23 14:34:11,469 - LiteLLM call failed: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: sk-or-v1*************************************************************62f4. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-07-23 14:35:28,505 - Use pytorch device_name: cpu
+2025-07-23 14:35:28,505 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 14:35:31,387 - Loading faiss with AVX2 support.
+2025-07-23 14:35:31,406 - Successfully loaded faiss with AVX2 support.
+2025-07-23 14:35:31,411 - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-23 14:35:40,342 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 14:35:40,592 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 14:35:42,657 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 14:35:44,076 - Wrapper: Completed Call, calling success_handler
+2025-07-23 14:35:44,077 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 14:35:44,078 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 14:35:44,082 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 14:35:44,109 - Pergunta: pedido | Intenção: vendas | Resposta: Para o seu pedido, recomendaria o seguinte conjunto de produtos que sei que se adequam ao seu perfil de cliente e às suas necessidades. Primeiramente, sugiro o Smartphone X, que está com uma promoção especial esta semana, oferecendo um desconto de 20%. Além disso, para complementar suas necessidades de tecnologia, o Tablet Y também está em promoção, com uma oferta de "Leve 2, Pague 1". Por fim, para garantir a proteção dos seus novos dispositivos, o Kit de Capas Personalizadas é uma excelente opção, especialmente se personalizadas com suas cores favoritas. Estou certo de que esses produtos atenderão às suas expectativas e proporcionarão uma experiência completa. Posso ajudá-lo a finalizar a compra hoje?
+2025-07-23 15:33:07,092 - Use pytorch device_name: cpu
+2025-07-23 15:33:07,092 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 15:33:10,300 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 15:33:36,618 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:33:36,889 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 15:33:38,465 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:33:39,508 - Wrapper: Completed Call, calling success_handler
+2025-07-23 15:33:39,510 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:33:39,510 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:33:39,512 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:33:39,533 - Pergunta: Quais tipos de produtos para piscina vocês vendem? | Intenção: vendas | Resposta: Na nossa loja online, temos uma variedade de produtos para piscina que podem te ajudar a manter sua piscina limpa e segura. Recomendaria especialmente nossos kits de limpeza, que incluem aspiradores, escovas e produtos químicos para manter a água cristalina. Além disso, temos promoções especiais em cloro e clarificantes esta semana, o que pode te ajudar a economizar enquanto cuida da sua piscina. Não deixe de conferir essas ofertas e garantir que sua piscina esteja sempre pronta para ser aproveitada!
+2025-07-23 15:34:25,452 - Use pytorch device_name: cpu
+2025-07-23 15:34:25,453 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 15:34:28,182 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 15:34:39,166 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:34:39,239 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 15:34:40,747 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:34:41,703 - Wrapper: Completed Call, calling success_handler
+2025-07-23 15:34:41,704 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:34:41,704 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:34:41,705 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:34:41,725 - Pergunta: prazo de entrega | Intenção: suporte | Resposta: Compreendo a importância da informação sobre o prazo de entrega para os clientes. O prazo de entrega varia de acordo com o endereço de entrega e a disponibilidade do produto. Geralmente, ao finalizar a compra, você receberá uma estimativa do prazo de entrega. Recomendo verificar a seção de perguntas frequentes do site para mais detalhes ou entrar em contato com nossa equipe de suporte para uma assistência personalizada. Nosso objetivo é garantir que você receba seu pedido dentro do prazo e com toda a qualidade que merece.
+2025-07-23 15:36:32,420 - Use pytorch device_name: cpu
+2025-07-23 15:36:32,420 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-23 15:36:35,089 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-23 15:36:47,465 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:36:47,718 - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-07-23 15:36:49,122 - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 15:36:50,252 - Wrapper: Completed Call, calling success_handler
+2025-07-23 15:36:50,254 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:36:50,254 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:36:50,255 - selected model name for cost calculation: openai/gpt-3.5-turbo
+2025-07-23 15:36:50,275 - Pergunta: comprei errado e agora? | Intenção: suporte | Resposta: If you made a purchase mistake, don't worry! You can usually contact our customer support team to explain the situation and request assistance. They may be able to help you cancel or modify your order, depending on the stage of processing. It's important to act quickly and provide all the necessary details about your order so that they can assist you effectively. Feel free to reach out to our support team via email, phone, or live chat for further guidance on how to proceed with your order.
