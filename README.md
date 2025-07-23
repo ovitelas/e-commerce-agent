@@ -15,45 +15,45 @@
 ## 📦 Estrutura do Projeto
 
 
-e-commerce-agent/
-├── main.py                         # Execução principal do agente
-├── agents/
-│   ├── suporte.py                  # Agente para dúvidas de suporte
-│   └── vendas.py                  # Agente para recomendações de venda
-├── utils/
-│   ├── classificador.py           # Classificação da intenção usando LLM
-│   ├── logger.py                  # Logger customizado em arquivo
-├── data/
-│   └── base_conhecimento.md       # Fonte de conhecimento do negócio (FAQ)
-├── chroma_db/                     # Banco vetorial persistente (Chroma)
-├── logs/
-│   └── interacoes.log             # Log de interações com timestamp
-├── .env                           # Variáveis de ambiente (NÃO subir!)
-└── README.md                      # Este arquivo :)
+>e-commerce-agent/
+>├── main.py                         # Execução principal do agente
+>├── agents/
+>│   ├── suporte.py                  # Agente para dúvidas de suporte
+>│   └── vendas.py                  # Agente para recomendações de venda
+>├── utils/
+>│   ├── classificador.py           # Classificação da intenção usando LLM
+>│   ├── logger.py                  # Logger customizado em arquivo
+>├── data/
+>│   └── base_conhecimento.md       # Fonte de conhecimento do negócio (FAQ)
+>├── chroma_db/                     # Banco vetorial persistente (Chroma)
+>├── logs/
+>│   └── interacoes.log             # Log de interações com timestamp
+>├── .env                           # Variáveis de ambiente (NÃO subir!)
+>└── README.md                      # Este arquivo :)
 
 ---
 
 ## Tecnologias e Conceitos
 
-    🔗 LangChain para integração entre LLM, vetores e agentes
+-   🔗 LangChain para integração entre LLM, vetores e agentes
 
-    🧠 LLMs via OpenRouter com gpt-3.5-turbo (compatível com OpenAI ou outros modelos)
+-    🧠 LLMs via OpenRouter com gpt-3.5-turbo (compatível com OpenAI ou outros modelos)
 
-    🧩 RAG: Geração com recuperação de conhecimento usando ChromaDB
+-    🧩 RAG: Geração com recuperação de conhecimento usando ChromaDB
 
-    📚 ChromaDB como vectorstore persistente para consultas locais
+-    📚 ChromaDB como vectorstore persistente para consultas locais
 
-    🔍 HuggingFace Embeddings (all-MiniLM-L6-v2)
+-    🔍 HuggingFace Embeddings (all-MiniLM-L6-v2)
 
-    📄 Text Chunking com RecursiveCharacterTextSplitter
+-    📄 Text Chunking com RecursiveCharacterTextSplitter
 
-    🤝 CrewAI para orquestrar tarefas e agentes
+-    🤝 CrewAI para orquestrar tarefas e agentes
 
-    🧪 pytest-ready (facilmente testável)
+-    🧪 pytest-ready (facilmente testável)
 
-    📊 Logging estruturado com arquivo .log dedicado
-
-    🔎 Classificação de intenção (suporte vs vendas) usando LLMs
+-    📊 Logging estruturado com arquivo .log dedicado
+    
+-   🔎 Classificação de intenção (suporte vs vendas) usando LLMs
 
 ---
 
@@ -155,15 +155,18 @@ Key Features
 
 ## 📁 Project Structure
 
-e-commerce-agent/
-├── main.py                 # Entry point
-├── agents/                 # Support and sales agent definitions
-├── utils/                  # Classifier, logger
-├── data/                   # Local markdown knowledge base
-├── chroma_db/              # Vector store (Chroma)
-├── logs/                   # Interaction logs
-├── .env                    # API keys (do NOT commit)
-└── README.md
+
+
+>e-commerce-agent/
+>├── main.py                 # Entry point
+>├── agents/                 # Support and sales agent definitions
+>├── utils/                  # Classifier, logger
+>├── data/                   # Local markdown knowledge base
+>├── chroma_db/              # Vector store (Chroma)
+>├── logs/                   # Interaction logs
+>├── .env                    # API keys (do NOT commit)
+>└── README.md
+
 
 ---
 
@@ -198,25 +201,25 @@ Agent: Once your order is shipped, you will receive a tracking code via email.
 
 The knowledge base (base_conhecimento.md) includes structured FAQs on:
 
-    Pool maintenance
+-   Pool maintenance
 
-    Payment and shipping
+-    Payment and shipping
 
-    Product types and warranties
+-    Product types and warranties
 
-    Customer support
+-    Customer support
 
 ---
 
 ## Future Improvements
 
-    Streamlit/Gradio frontend
+-    Streamlit/Gradio frontend
 
-    WhatsApp integration (Twilio)
+-    WhatsApp integration (Twilio)
 
-    Multi-domain support
+-    Multi-domain support
 
-    Embedding-based classification
+-   Embedding-based classification
 
 ---
 
